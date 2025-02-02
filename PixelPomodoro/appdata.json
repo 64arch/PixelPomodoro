@@ -1,0 +1,7 @@
+{
+  "SendTelegramNotifications": true,
+  "TelegramAPIToken": "",
+  "UserTelegramID": "",
+  "WorkMinutes": 25,
+  "BreakMinutes": 5
+}
